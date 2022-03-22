@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Everton\\Documents\\GitHub\\oo_2022_1\\Aula02_POO_Review_Linguagem_C\\Aula01_POO_Review_Linguagem_C\\Aula01_POO_Review_Linguagem_C.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Everton\\Documents\\GitHub\\oo_2022_1\\Aula02_POO_Review_Linguagem_C\\Aula01_POO_Review_Linguagem_C\\Aula01_POO_Review_Linguagem_C.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Everton\\Documents\\GitHub\\oo_2022_1\\Aula02_POO_Review_Linguagem_C\\Aula01_POO_Review_Linguagem_C\\Aula01_POO_Review_Linguagem_C.csproj",
+        "projectName": "Aula01_POO_Review_Linguagem_C",
+        "projectPath": "C:\\Users\\Everton\\Documents\\GitHub\\oo_2022_1\\Aula02_POO_Review_Linguagem_C\\Aula01_POO_Review_Linguagem_C\\Aula01_POO_Review_Linguagem_C.csproj",
+        "packagesPath": "C:\\Users\\Everton\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Everton\\Documents\\GitHub\\oo_2022_1\\Aula02_POO_Review_Linguagem_C\\Aula01_POO_Review_Linguagem_C\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Everton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
