@@ -1,4 +1,5 @@
-﻿using Aula02_POO_Introducao_Linguagem_C.Validadores;
+﻿using Aula02_POO_Introducao_Linguagem_C.Dominio.Compartilhados;
+using Aula02_POO_Introducao_Linguagem_C.Validadores;
 using System.Text.RegularExpressions;
 
 namespace Aula02_POO_Introducao_Linguagem_C.Dominio
@@ -6,9 +7,10 @@ namespace Aula02_POO_Introducao_Linguagem_C.Dominio
     internal class Estudante
     {
         #region Construtores
-        public Estudante(string registroAcademico)
+        public Estudante(string registroAcademico, Endereco[] enderecos)
         {
             RegistroAcademico = registroAcademico;
+            Enderecos = enderecos;
         }
         #endregion
 
@@ -59,7 +61,10 @@ namespace Aula02_POO_Introducao_Linguagem_C.Dominio
             }
         }
         #endregion
-       
+
+        #region Associações
+        public Endereco[] Enderecos{ get; set; }
+        #endregion
         #region Métodos de Predicado
         public bool EhValido()
         {
@@ -107,6 +112,5 @@ namespace Aula02_POO_Introducao_Linguagem_C.Dominio
 
         //ra,nome,nascimento,renda familiar
         #endregion
-
     }
 }
