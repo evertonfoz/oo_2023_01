@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "Validadores/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Validadores.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Validadores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Validadores/1.0.0": {
+      "type": "project",
+      "path": "../Validadores/Validadores.csproj",
+      "msbuildProject": "../Validadores/Validadores.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "Validadores >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Everton\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Everton\\Documents\\GitHub\\oo_2022_1\\Aula04_POO_Associações_Windows_Forms\\Aula03_POO_Associações_Windows_Forms\\Aula03_POO_Associações_Windows_Forms.csproj",
+      "projectName": "Aula03_POO_Associações_Windows_Forms",
+      "projectPath": "C:\\Users\\Everton\\Documents\\GitHub\\oo_2022_1\\Aula04_POO_Associações_Windows_Forms\\Aula03_POO_Associações_Windows_Forms\\Aula03_POO_Associações_Windows_Forms.csproj",
+      "packagesPath": "C:\\Users\\Everton\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Everton\\Documents\\GitHub\\oo_2022_1\\Aula04_POO_Associações_Windows_Forms\\Aula03_POO_Associações_Windows_Forms\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Everton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Everton\\Documents\\GitHub\\oo_2022_1\\Aula04_POO_Associações_Windows_Forms\\Validadores\\Validadores.csproj": {
+              "projectPath": "C:\\Users\\Everton\\Documents\\GitHub\\oo_2022_1\\Aula04_POO_Associações_Windows_Forms\\Validadores\\Validadores.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
