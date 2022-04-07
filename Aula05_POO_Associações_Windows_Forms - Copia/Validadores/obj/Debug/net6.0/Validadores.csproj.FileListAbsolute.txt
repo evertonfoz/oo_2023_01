@@ -1,0 +1,12 @@
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula04_POO_Associações_Windows_Forms\Validadores\bin\Debug\net6.0\Validadores.deps.json
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula04_POO_Associações_Windows_Forms\Validadores\bin\Debug\net6.0\Validadores.dll
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula04_POO_Associações_Windows_Forms\Validadores\bin\Debug\net6.0\Validadores.pdb
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula04_POO_Associações_Windows_Forms\Validadores\obj\Debug\net6.0\Validadores.csproj.AssemblyReference.cache
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula04_POO_Associações_Windows_Forms\Validadores\obj\Debug\net6.0\Validadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula04_POO_Associações_Windows_Forms\Validadores\obj\Debug\net6.0\Validadores.AssemblyInfoInputs.cache
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula04_POO_Associações_Windows_Forms\Validadores\obj\Debug\net6.0\Validadores.AssemblyInfo.cs
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula04_POO_Associações_Windows_Forms\Validadores\obj\Debug\net6.0\Validadores.csproj.CoreCompileInputs.cache
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula04_POO_Associações_Windows_Forms\Validadores\obj\Debug\net6.0\Validadores.dll
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula04_POO_Associações_Windows_Forms\Validadores\obj\Debug\net6.0\refint\Validadores.dll
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula04_POO_Associações_Windows_Forms\Validadores\obj\Debug\net6.0\Validadores.pdb
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula04_POO_Associações_Windows_Forms\Validadores\obj\Debug\net6.0\ref\Validadores.dll
