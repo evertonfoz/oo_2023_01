@@ -1,0 +1,15 @@
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula06_POO_Heranca\bin\Debug\net6.0\Aula06_POO_Heranca.exe
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula06_POO_Heranca\bin\Debug\net6.0\Aula06_POO_Heranca.deps.json
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula06_POO_Heranca\bin\Debug\net6.0\Aula06_POO_Heranca.runtimeconfig.json
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula06_POO_Heranca\bin\Debug\net6.0\Aula06_POO_Heranca.dll
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula06_POO_Heranca\bin\Debug\net6.0\Aula06_POO_Heranca.pdb
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula06_POO_Heranca\obj\Debug\net6.0\Aula06_POO_Heranca.csproj.AssemblyReference.cache
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula06_POO_Heranca\obj\Debug\net6.0\Aula06_POO_Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula06_POO_Heranca\obj\Debug\net6.0\Aula06_POO_Heranca.AssemblyInfoInputs.cache
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula06_POO_Heranca\obj\Debug\net6.0\Aula06_POO_Heranca.AssemblyInfo.cs
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula06_POO_Heranca\obj\Debug\net6.0\Aula06_POO_Heranca.csproj.CoreCompileInputs.cache
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula06_POO_Heranca\obj\Debug\net6.0\Aula06_POO_Heranca.dll
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula06_POO_Heranca\obj\Debug\net6.0\refint\Aula06_POO_Heranca.dll
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula06_POO_Heranca\obj\Debug\net6.0\Aula06_POO_Heranca.pdb
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula06_POO_Heranca\obj\Debug\net6.0\Aula06_POO_Heranca.genruntimeconfig.cache
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula06_POO_Heranca\obj\Debug\net6.0\ref\Aula06_POO_Heranca.dll
