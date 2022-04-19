@@ -1,0 +1,17 @@
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula06_POO_Solucao_Com_Varios_Projetos\Veiculos.Dados\bin\Debug\net6.0\Veiculos.Dados.deps.json
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula06_POO_Solucao_Com_Varios_Projetos\Veiculos.Dados\bin\Debug\net6.0\Veiculos.Dados.dll
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula06_POO_Solucao_Com_Varios_Projetos\Veiculos.Dados\bin\Debug\net6.0\Veiculos.Dados.pdb
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula06_POO_Solucao_Com_Varios_Projetos\Veiculos.Dados\bin\Debug\net6.0\Veiculos.Modelo.dll
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula06_POO_Solucao_Com_Varios_Projetos\Veiculos.Dados\bin\Debug\net6.0\Veiculos.Modelo.pdb
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula06_POO_Solucao_Com_Varios_Projetos\Veiculos.Dados\obj\Debug\net6.0\Veiculos.Dados.csproj.AssemblyReference.cache
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula06_POO_Solucao_Com_Varios_Projetos\Veiculos.Dados\obj\Debug\net6.0\Veiculos.Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula06_POO_Solucao_Com_Varios_Projetos\Veiculos.Dados\obj\Debug\net6.0\Veiculos.Dados.AssemblyInfoInputs.cache
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula06_POO_Solucao_Com_Varios_Projetos\Veiculos.Dados\obj\Debug\net6.0\Veiculos.Dados.AssemblyInfo.cs
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula06_POO_Solucao_Com_Varios_Projetos\Veiculos.Dados\obj\Debug\net6.0\Veiculos.Dados.csproj.CoreCompileInputs.cache
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula06_POO_Solucao_Com_Varios_Projetos\Veiculos.Dados\obj\Debug\net6.0\Veiculos.Dados.csproj.CopyComplete
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula06_POO_Solucao_Com_Varios_Projetos\Veiculos.Dados\obj\Debug\net6.0\Veiculos.Dados.dll
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula06_POO_Solucao_Com_Varios_Projetos\Veiculos.Dados\obj\Debug\net6.0\refint\Veiculos.Dados.dll
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula06_POO_Solucao_Com_Varios_Projetos\Veiculos.Dados\obj\Debug\net6.0\Veiculos.Dados.pdb
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula06_POO_Solucao_Com_Varios_Projetos\Veiculos.Dados\obj\Debug\net6.0\ref\Veiculos.Dados.dll
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula06_POO_Solucao_Com_Varios_Projetos\Veiculos.Dados\bin\Debug\net6.0\Veiculos.Core.dll
+C:\Users\Everton\Documents\GitHub\oo_2022_1\Aula06_POO_Solucao_Com_Varios_Projetos\Veiculos.Dados\bin\Debug\net6.0\Veiculos.Core.pdb
