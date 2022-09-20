@@ -1,0 +1,15 @@
+C:\Users\Everton\Documents\GitHub\oo_2022_1\2022_02\Console.Heranca\bin\Debug\net6.0\Console.Heranca.exe
+C:\Users\Everton\Documents\GitHub\oo_2022_1\2022_02\Console.Heranca\bin\Debug\net6.0\Console.Heranca.deps.json
+C:\Users\Everton\Documents\GitHub\oo_2022_1\2022_02\Console.Heranca\bin\Debug\net6.0\Console.Heranca.runtimeconfig.json
+C:\Users\Everton\Documents\GitHub\oo_2022_1\2022_02\Console.Heranca\bin\Debug\net6.0\Console.Heranca.dll
+C:\Users\Everton\Documents\GitHub\oo_2022_1\2022_02\Console.Heranca\bin\Debug\net6.0\Console.Heranca.pdb
+C:\Users\Everton\Documents\GitHub\oo_2022_1\2022_02\Console.Heranca\obj\Debug\net6.0\Console.Heranca.csproj.AssemblyReference.cache
+C:\Users\Everton\Documents\GitHub\oo_2022_1\2022_02\Console.Heranca\obj\Debug\net6.0\Console.Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Everton\Documents\GitHub\oo_2022_1\2022_02\Console.Heranca\obj\Debug\net6.0\Console.Heranca.AssemblyInfoInputs.cache
+C:\Users\Everton\Documents\GitHub\oo_2022_1\2022_02\Console.Heranca\obj\Debug\net6.0\Console.Heranca.AssemblyInfo.cs
+C:\Users\Everton\Documents\GitHub\oo_2022_1\2022_02\Console.Heranca\obj\Debug\net6.0\Console.Heranca.csproj.CoreCompileInputs.cache
+C:\Users\Everton\Documents\GitHub\oo_2022_1\2022_02\Console.Heranca\obj\Debug\net6.0\Console.Heranca.dll
+C:\Users\Everton\Documents\GitHub\oo_2022_1\2022_02\Console.Heranca\obj\Debug\net6.0\refint\Console.Heranca.dll
+C:\Users\Everton\Documents\GitHub\oo_2022_1\2022_02\Console.Heranca\obj\Debug\net6.0\Console.Heranca.pdb
+C:\Users\Everton\Documents\GitHub\oo_2022_1\2022_02\Console.Heranca\obj\Debug\net6.0\Console.Heranca.genruntimeconfig.cache
+C:\Users\Everton\Documents\GitHub\oo_2022_1\2022_02\Console.Heranca\obj\Debug\net6.0\ref\Console.Heranca.dll
