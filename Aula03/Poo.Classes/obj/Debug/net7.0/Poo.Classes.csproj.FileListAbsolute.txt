@@ -1,0 +1,15 @@
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_without_git/Aula03/Poo.Classes/bin/Debug/net7.0/Poo.Classes
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_without_git/Aula03/Poo.Classes/bin/Debug/net7.0/Poo.Classes.deps.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_without_git/Aula03/Poo.Classes/bin/Debug/net7.0/Poo.Classes.runtimeconfig.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_without_git/Aula03/Poo.Classes/bin/Debug/net7.0/Poo.Classes.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_without_git/Aula03/Poo.Classes/bin/Debug/net7.0/Poo.Classes.pdb
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_without_git/Aula03/Poo.Classes/obj/Debug/net7.0/Poo.Classes.csproj.AssemblyReference.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_without_git/Aula03/Poo.Classes/obj/Debug/net7.0/Poo.Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_without_git/Aula03/Poo.Classes/obj/Debug/net7.0/Poo.Classes.AssemblyInfoInputs.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_without_git/Aula03/Poo.Classes/obj/Debug/net7.0/Poo.Classes.AssemblyInfo.cs
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_without_git/Aula03/Poo.Classes/obj/Debug/net7.0/Poo.Classes.csproj.CoreCompileInputs.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_without_git/Aula03/Poo.Classes/obj/Debug/net7.0/Poo.Classes.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_without_git/Aula03/Poo.Classes/obj/Debug/net7.0/refint/Poo.Classes.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_without_git/Aula03/Poo.Classes/obj/Debug/net7.0/Poo.Classes.pdb
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_without_git/Aula03/Poo.Classes/obj/Debug/net7.0/Poo.Classes.genruntimeconfig.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_without_git/Aula03/Poo.Classes/obj/Debug/net7.0/ref/Poo.Classes.dll

@@ -1,0 +1,15 @@
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_without_git/Aula01/Exemplo01/bin/Debug/net7.0/Exemplo01
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_without_git/Aula01/Exemplo01/bin/Debug/net7.0/Exemplo01.deps.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_without_git/Aula01/Exemplo01/bin/Debug/net7.0/Exemplo01.runtimeconfig.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_without_git/Aula01/Exemplo01/bin/Debug/net7.0/Exemplo01.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_without_git/Aula01/Exemplo01/bin/Debug/net7.0/Exemplo01.pdb
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_without_git/Aula01/Exemplo01/obj/Debug/net7.0/Exemplo01.csproj.AssemblyReference.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_without_git/Aula01/Exemplo01/obj/Debug/net7.0/Exemplo01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_without_git/Aula01/Exemplo01/obj/Debug/net7.0/Exemplo01.AssemblyInfoInputs.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_without_git/Aula01/Exemplo01/obj/Debug/net7.0/Exemplo01.AssemblyInfo.cs
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_without_git/Aula01/Exemplo01/obj/Debug/net7.0/Exemplo01.csproj.CoreCompileInputs.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_without_git/Aula01/Exemplo01/obj/Debug/net7.0/Exemplo01.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_without_git/Aula01/Exemplo01/obj/Debug/net7.0/refint/Exemplo01.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_without_git/Aula01/Exemplo01/obj/Debug/net7.0/Exemplo01.pdb
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_without_git/Aula01/Exemplo01/obj/Debug/net7.0/Exemplo01.genruntimeconfig.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_without_git/Aula01/Exemplo01/obj/Debug/net7.0/ref/Exemplo01.dll
