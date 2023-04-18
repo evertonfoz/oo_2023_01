@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{4DAC1D99-125D-4DDA-96A4-0E3C139C377D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Trabalho_220POO PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UI/Categoria.cs">
+    <Files>
+      <File FileName="Model/Produto.cs" Line="11" Column="30" />
+      <File FileName="Model/Categoria.cs" Line="7" Column="50" />
+      <File FileName="Model/Cliente.cs" Line="2" Column="20" />
+      <File FileName="Model/Venda.cs" Line="3" Column="20" />
+      <File FileName="Model/ProdutoVenda.cs" Line="11" Column="13" />
+      <File FileName="Program.cs" Line="41" Column="60" />
+      <File FileName="UI/CategoriaUI.cs" Line="83" Column="13" />
+      <File FileName="UI/ProdutoUI.cs" Line="144" Column="4" />
+      <File FileName="UI/ClientesUI.cs" Line="211" Column="4" />
+      <File FileName="UI/RelatorioUI.cs" Line="37" Column="4" />
+      <File FileName="UI/VendaUI.cs" Line="82" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Trabalho POO" expanded="True">
+            <Node name="Trabalho POO" expanded="True">
+              <Node name="Model" expanded="True" />
+              <Node name="UI" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

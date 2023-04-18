@@ -1,0 +1,15 @@
+/Users/evertoncoimbradearaujo/Downloads/JRJ.Modas-main/obj/Debug/net6.0/Trabalho POO.csproj.AssemblyReference.cache
+/Users/evertoncoimbradearaujo/Downloads/JRJ.Modas-main/obj/Debug/net6.0/Trabalho POO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evertoncoimbradearaujo/Downloads/JRJ.Modas-main/obj/Debug/net6.0/Trabalho POO.AssemblyInfoInputs.cache
+/Users/evertoncoimbradearaujo/Downloads/JRJ.Modas-main/obj/Debug/net6.0/Trabalho POO.AssemblyInfo.cs
+/Users/evertoncoimbradearaujo/Downloads/JRJ.Modas-main/obj/Debug/net6.0/Trabalho POO.csproj.CoreCompileInputs.cache
+/Users/evertoncoimbradearaujo/Downloads/JRJ.Modas-main/bin/Debug/net6.0/Trabalho POO
+/Users/evertoncoimbradearaujo/Downloads/JRJ.Modas-main/bin/Debug/net6.0/Trabalho POO.deps.json
+/Users/evertoncoimbradearaujo/Downloads/JRJ.Modas-main/bin/Debug/net6.0/Trabalho POO.runtimeconfig.json
+/Users/evertoncoimbradearaujo/Downloads/JRJ.Modas-main/bin/Debug/net6.0/Trabalho POO.dll
+/Users/evertoncoimbradearaujo/Downloads/JRJ.Modas-main/bin/Debug/net6.0/Trabalho POO.pdb
+/Users/evertoncoimbradearaujo/Downloads/JRJ.Modas-main/obj/Debug/net6.0/Trabalho POO.dll
+/Users/evertoncoimbradearaujo/Downloads/JRJ.Modas-main/obj/Debug/net6.0/refint/Trabalho POO.dll
+/Users/evertoncoimbradearaujo/Downloads/JRJ.Modas-main/obj/Debug/net6.0/Trabalho POO.pdb
+/Users/evertoncoimbradearaujo/Downloads/JRJ.Modas-main/obj/Debug/net6.0/Trabalho POO.genruntimeconfig.cache
+/Users/evertoncoimbradearaujo/Downloads/JRJ.Modas-main/obj/Debug/net6.0/ref/Trabalho POO.dll
