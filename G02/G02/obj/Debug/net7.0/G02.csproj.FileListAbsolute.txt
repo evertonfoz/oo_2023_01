@@ -1,0 +1,15 @@
+/Users/evertoncoimbradearaujo/Documents/GitHub/gamifica-o/G02/G02/obj/Debug/net7.0/G02.csproj.AssemblyReference.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/gamifica-o/G02/G02/obj/Debug/net7.0/G02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evertoncoimbradearaujo/Documents/GitHub/gamifica-o/G02/G02/obj/Debug/net7.0/G02.AssemblyInfoInputs.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/gamifica-o/G02/G02/obj/Debug/net7.0/G02.AssemblyInfo.cs
+/Users/evertoncoimbradearaujo/Documents/GitHub/gamifica-o/G02/G02/obj/Debug/net7.0/G02.csproj.CoreCompileInputs.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/gamifica-o/G02/G02/bin/Debug/net7.0/G02
+/Users/evertoncoimbradearaujo/Documents/GitHub/gamifica-o/G02/G02/bin/Debug/net7.0/G02.deps.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/gamifica-o/G02/G02/bin/Debug/net7.0/G02.runtimeconfig.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/gamifica-o/G02/G02/bin/Debug/net7.0/G02.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/gamifica-o/G02/G02/bin/Debug/net7.0/G02.pdb
+/Users/evertoncoimbradearaujo/Documents/GitHub/gamifica-o/G02/G02/obj/Debug/net7.0/G02.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/gamifica-o/G02/G02/obj/Debug/net7.0/refint/G02.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/gamifica-o/G02/G02/obj/Debug/net7.0/G02.pdb
+/Users/evertoncoimbradearaujo/Documents/GitHub/gamifica-o/G02/G02/obj/Debug/net7.0/G02.genruntimeconfig.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/gamifica-o/G02/G02/obj/Debug/net7.0/ref/G02.dll
